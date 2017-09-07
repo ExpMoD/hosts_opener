@@ -1,0 +1,14 @@
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\hosts_opener\hosts_opener\obj\Debug\hosts_opener.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\hosts_opener\hosts_opener\obj\Debug\MainWindow.g.cs
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\hosts_opener\hosts_opener\obj\Debug\App.g.cs
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\hosts_opener\hosts_opener\obj\Debug\hosts_opener_MarkupCompile.cache
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\hosts_opener\hosts_opener\obj\Debug\hosts_opener_MarkupCompile.lref
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\hosts_opener\hosts_opener\obj\Debug\MainWindow.baml
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\hosts_opener\hosts_opener\obj\Debug\hosts_opener.g.resources
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\hosts_opener\hosts_opener\obj\Debug\hosts_opener.Properties.Resources.resources
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\hosts_opener\hosts_opener\obj\Debug\hosts_opener.csproj.GenerateResource.Cache
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\hosts_opener\hosts_opener\obj\Debug\hosts_opener.exe
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\hosts_opener\hosts_opener\obj\Debug\hosts_opener.pdb
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\hosts_opener\hosts_opener\bin\Debug\hosts_opener.exe.config
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\hosts_opener\hosts_opener\bin\Debug\hosts_opener.exe
+C:\Users\Андрей\Documents\Visual Studio 2017\Projects\hosts_opener\hosts_opener\bin\Debug\hosts_opener.pdb
